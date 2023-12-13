@@ -1,5 +1,5 @@
 # @Time : 2023/10/27 9:34
-# @Author : 赵新宇
+# @Author : jj—bone
 # @File : cal_var.py
 # @Use: 计算诊断量
 #基于wrf-python，对nc数据处理
